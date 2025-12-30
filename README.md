@@ -6,7 +6,7 @@ I’m passionate about bringing ideas to life, bridging the gap between design a
 <br />
 
 ### 📚 Skills
-**Tech:** Javascript/HTML/CSS, React, React Native, AEM, 
+**Tech:** Javascript/HTML/CSS, React, React Native, AEM, Terraform (this is new for me).
 
 **Design:** Figma, Procreate, Adobe Illustrator, Adobe Photoshop, Adobe InDesign
 
