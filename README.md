@@ -20,7 +20,7 @@ These days I am a Technical Product Manager at Mastercard in the Operations Auto
 ### 🧠 Past Experience
 **[The Brave App](https://chumigonzalez.com/the-brave-app):** a communication and resource platform for a non-profit that supports young immigrant women in NYC. <br />
 **[Glow In The Blue](https://chumigonzalez.com/glow-in-the-blue):** a mindfulness & productivity tracker. <br />
-**[Nebula Bakery](https://chumigonzalez.com/nebula-bakery):** an e-commerce website for baked goods.
+**[Nebula Bakery](https://chumigonzalez.com/nebula-bakery):** an e-commerce website for baked goods. <br />
 **Barclays:** The international investment bank, not the events center in Brooklyn. I was UI Developer of 2 years on the Frictionless Apply team, and a Product Analyst for 2 years on the AEM team. 
 <br />
 
